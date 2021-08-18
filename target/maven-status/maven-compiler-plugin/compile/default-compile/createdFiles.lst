@@ -1,0 +1,16 @@
+DAO\CategoriaDAO.class
+DAO\DAOGenerico.class
+DAO\InterfaceDAOGenerico.class
+Controllers\IndexController.class
+DAO\ProdutoDAO.class
+DAO\UsuarioDAO.class
+DAO\CompraDAO.class
+Mapeamento\TbCompra.class
+Controllers\ProdutoController.class
+Controllers\CompraController.class
+Mapeamento\HibernateUtil.class
+Mapeamento\TbCategoria.class
+Mapeamento\TbCliente.class
+Controllers\ClienteController.class
+Mapeamento\TbProduto.class
+Controllers\LoginClienteController.class
